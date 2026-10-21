@@ -1,6 +1,7 @@
 {
  "work": "風雅和歌集",
  "work_id": "kt-fuga",
+ "repo": "kumoi-no-fumigura/fuga-wakashu",
  "yomi": "ふうがわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -26553,6 +26554,5 @@
    "text": "戶戶あけし八咫の鏡の山かづらかけて現しき明けき世は",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/fuga-wakashu"
+ ]
 }
